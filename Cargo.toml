@@ -1,0 +1,8 @@
+[package]
+name = "rexploit"
+version = "0.1.0"
+authors = ["Logan Gorence <loganjohngorence@gmail.com>", "Kenneth Endfinger <kaendfinger@gmail.com>"]
+publish = false
+
+[dependencies]
+common = { path = "common" }
